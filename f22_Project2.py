@@ -5,6 +5,9 @@ import os
 import csv
 import unittest
 
+# name: Dylan Shefman
+# collaborated with: Brian Metz
+
 
 def get_listings_from_search_results(html_file):
     """
